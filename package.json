@@ -1,0 +1,16 @@
+{
+  "name": "docker-node-eg",
+  "version": "1.0.0",
+  "description": "docker implementation",
+  "main": "app.js",
+  "author": "Nayan patel",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "nodemon": "^1.19.2"
+  },
+  "license": "ISC"
+}
